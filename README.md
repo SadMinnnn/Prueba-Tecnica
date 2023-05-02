@@ -17,6 +17,9 @@ Finalmente, se usa el método console.log() para mostrar el contenido del fullna
 
 El código combina el nombre y el apellido de cada objeto en la matriz de la lista de nombres y los almacena en una nueva matriz llamada fullnames.
 
+![image](https://user-images.githubusercontent.com/128757228/235797279-df99de6f-dbcc-40bd-988d-6f2b4164517e.png)
+
+
 
 Explicacion del segundo codigo:
 
