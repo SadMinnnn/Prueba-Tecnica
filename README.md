@@ -26,3 +26,5 @@ Explicacion del segundo codigo:
 Aqui lo que hice para darle una solucion diferente al codigo anterior fue utilizar el metodo 'map()' este con la finalidad de iterar a traves de cada objeto de la matriz 'namelist'. Con la funcion llamada 'Arrow function' y esto lo que permite es poder extraer las propiedades tanto de 'name' como de 'lastname', en el cual se concatenan en una cadena dando el nombre completo, y asi dejando que se almacenen en la matriz de 'fullnames'.
 
 Y al igual que el anterior codigo, se muestra el contenido del nombre completo en la consola.
+
+
