@@ -23,8 +23,11 @@ El código combina el nombre y el apellido de cada objeto en la matriz de la lis
 
 Explicacion del segundo codigo:
 
-Aqui lo que hice para darle una solucion diferente al codigo anterior fue utilizar el metodo 'map()' este con la finalidad de iterar a traves de cada objeto de la matriz 'namelist'. Con la funcion llamada 'Arrow function' y esto lo que permite es poder extraer las propiedades tanto de 'name' como de 'lastname', en el cual se concatenan en una cadena dando el nombre completo, y asi dejando que se almacenen en la matriz de 'fullnames'.
+Aqui lo que hice para darle una solucion diferente al codigo anterior fue utilizar el metodo 'map()'  este con la finalidad de iterar a traves de cada objeto de la matriz 'namelist'. Con la funcion llamada 'Arrow function' y esto lo que permite es poder extraer las propiedades tanto de 'name' como de 'lastname', en el cual se concatenan en una cadena dando el nombre completo, y asi dejando que se almacenen en la matriz de 'fullnames'.
 
 Y al igual que el anterior codigo, se muestra el contenido del nombre completo en la consola.
+
+![image](https://user-images.githubusercontent.com/128757228/235797587-5d6a2b48-19ad-4da5-8273-1e1832bc5ec6.png)
+
 
 
