@@ -6,10 +6,10 @@ que se utiliza para poder almancenar y combinar los nombres y apellidos anterior
 
 Luego de esto se esta declarando una variable llamada 'size' (tamaño) que contiene la longitud del arreglo antes mencionado 'namelist'
 
-Luego inicie un bucle for que itere a través de la matriz de listas de nombres. En cada iteración, las cadenas let se utilizan para crear una cadena que concatena el nombre y el apellido de cada objeto de la lista mediante la notación de propiedad de objeto. Esta cadena se almacena en una variable de elemento.
+Luego se inicia un bucle for que itere a través de la matriz de listas de nombres. En cada iteración, las cadenas let se utilizan para crear una cadena que concatena el nombre y el apellido de cada objeto de la lista mediante la notación de propiedad de objeto. Esta cadena se almacena en una variable de elemento.
 
-Luego, la cadena de elementos se agrega a la matriz de nombres distinguidos mediante el método push().
+Luego, la cadena de elementos se agrega a la matriz de fullnames mediante el método push().
 
-Finalmente, use el método console.log() para mostrar el contenido del nombre distinguido en la consola.
+Finalmente, se usa el método console.log() para mostrar el contenido del fullnames en la consola.
 
 El código combina el nombre y el apellido de cada objeto en la matriz de la lista de nombres y los almacena en una nueva matriz llamada fullnames.
